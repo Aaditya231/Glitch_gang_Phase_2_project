@@ -27,7 +27,7 @@ def wish_user():
     else:
         fun_talk("Good Evening !")
         
-    fun_talk("I am P.A. (Python Assistant). Tell me how may I help you.")
+    fun_talk("I am mister evergreen. Tell me how may I help you.")
 
 
 def get_command():
